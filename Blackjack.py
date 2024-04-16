@@ -1,4 +1,5 @@
 #IMPORT
+#this is in dutch, i will make an english version when i have the time
 import time
 import random
 #SPEL
