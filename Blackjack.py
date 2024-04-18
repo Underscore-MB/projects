@@ -98,7 +98,7 @@ h1 = str(input())
 if h1 == 'hit':
     Spelerkaart4 = random.randint(2,10)
     print('je vierde kaart heeft een waarde van', Spelerkaart4, '.')
-    time.wait(2)
+    time.sleep(2)
     totaal += Spelerkaart4
     print('je totaal is', totaal, '.')
     if totaal > 21:
